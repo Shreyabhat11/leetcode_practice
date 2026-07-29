@@ -6,6 +6,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Shreyabhat11/leetcode_practice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Shreyabhat11/leetcode_practice/tree/master/0066-plus-one) |
+| [0739-daily-temperatures](https://github.com/Shreyabhat11/leetcode_practice/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shreyabhat11/leetcode_practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Binary Search
 |  |
@@ -39,9 +40,11 @@
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Shreyabhat11/leetcode_practice/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shreyabhat11/leetcode_practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Shreyabhat11/leetcode_practice/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shreyabhat11/leetcode_practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
