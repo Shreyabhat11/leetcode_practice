@@ -50,4 +50,8 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Shreyabhat11/leetcode_practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Shreyabhat11/leetcode_practice/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shreyabhat11/leetcode_practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/Shreyabhat11/leetcode_practice/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
