@@ -28,6 +28,7 @@
 | [0066-plus-one](https://github.com/Shreyabhat11/leetcode_practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Shreyabhat11/leetcode_practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Shreyabhat11/leetcode_practice/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Shreyabhat11/leetcode_practice/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -57,4 +58,12 @@
 | ------- |
 | [0584-find-customer-referee](https://github.com/Shreyabhat11/leetcode_practice/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/Shreyabhat11/leetcode_practice/tree/master/0620-not-boring-movies) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shreyabhat11/leetcode_practice/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shreyabhat11/leetcode_practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
